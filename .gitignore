@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+Thumbs.db
+*.temp
+*.log
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.png
+*.jpg
+*.jpeg
