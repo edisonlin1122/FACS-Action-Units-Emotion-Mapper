@@ -61,3 +61,9 @@ Features:
 - View the original video and AU-based emotion results
 - Inspect a DataFrame of detected emotions per frame
 - Explore a bar chart showing emotion frequency distribution
+
+## Image Demo
+
+<img width="1801" height="771" alt="image" src="https://github.com/user-attachments/assets/b9e51247-71b8-42f5-921b-21728ce2d9dd" />
+<img width="885" height="849" alt="image" src="https://github.com/user-attachments/assets/3e735047-2bc8-4c06-802a-ab091e5a44e1" />
+
